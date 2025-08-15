@@ -210,7 +210,10 @@ p.note { display: none; }
 <a href="20250815_021.JPG" target="_blank"><img src="20250815_021.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">カゴの鳥たちの鳴き声が響き渡ります<br>画像クリックで動画再生します↓</span></h2>
-<a href="20250815_001.MOV" target="_blank"><img src="20250815_001.png" alt="サンプル画像" class="responsive-media"></a>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2-JzN2EF5I?si=n_1PjHvPxHoSpVNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>   
+
 <a href="20250815_022.JPG" target="_blank"><img src="20250815_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250815_023.JPG" target="_blank"><img src="20250815_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250815_024.JPG" target="_blank"><img src="20250815_024.JPG" alt="サンプル画像" class="responsive-media"></a>
