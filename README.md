@@ -222,7 +222,7 @@ p.note { display: none; }
 <h2><span class="yellow">介護施設の車が高齢者を迎えに来ました</span></h2>
 <a href="20250815_026.JPG" target="_blank"><img src="20250815_026.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">各戸の門の脇には特徴的なお着物</span></h2>
+<h2><span class="yellow">各戸の門の脇には特徴的な置き物</span></h2>
 <a href="20250815_027.JPG" target="_blank"><img src="20250815_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250815_028.JPG" target="_blank"><img src="20250815_028.JPG" alt="サンプル画像" class="responsive-media"></a>
     
